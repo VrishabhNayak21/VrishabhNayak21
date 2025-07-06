@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Vrishabh Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Spline Viewer](https://i.imgur.com/your_screenshot.png)](https://prod.spline.design/Hh6xGKi8hpbGvWDi/scene.splinecode)
+<a href="https://prod.spline.design/Hh6xGKi8hpbGvWDi/scene.splinecode" target="_blank">
+  <img src="https://i.imgur.com/YOUR_SCREENSHOT.png" alt="Spline Scene Preview" width="400"/>
+</a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabhnayak21&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabhnayak21" /> </p>
