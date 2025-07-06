@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Vrishabh Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.22/build/spline-viewer.js"></script><div style="width:400px;height:100vh;"><spline-viewer url="https://prod.spline.design/Hh6xGKi8hpbGvWDi/scene.splinecode" style="width:100%;height:100%;"></spline-viewer></div>
+[![Spline Viewer](https://i.imgur.com/your_screenshot.png)](https://prod.spline.design/Hh6xGKi8hpbGvWDi/scene.splinecode)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabhnayak21&label=Profile%20views&color=0e75b6&style=flat" alt="vrishabhnayak21" /> </p>
 
