@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vrishabh Nayak</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="500" height="300" src=https://github.com/user-attachments/assets/13d71c72-d418-48a6-b050-9b1104be68c1>
+<img align="right" alt="coding" width="500" height="300" src=https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif >
 
 
 
