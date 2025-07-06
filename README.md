@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vrishabh Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-<a href="https://prod.spline.design/Hh6xGKi8hpbGvWDi/scene.splinecode" target="_blank">
-  <img src="https://i.imgur.com/YOUR_SCREENSHOT.png" alt="Spline Scene Preview" width="400"/>
-</a>
+<img align="right" alt="coding" width="400" src=![image](https://github.com/user-attachments/assets/13d71c72-d418-48a6-b050-9b1104be68c1)>
+
+
 
 
 
