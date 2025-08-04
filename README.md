@@ -1,25 +1,72 @@
-<h1 align="center">Hi, I'm Vrishabh Nayak</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">🚀 Vrishabh Nayak</h1>
+<h3 align="center">Full-Stack Developer | Builder | Gamer | Dreaming Big from 🇮🇳</h3>
 
-<img align="right" alt="coding" width="500" height="300" src=https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif >
-
-
-- 🔭 I’m currently working on **Griffora**
-
-- 🌱 I’m currently learning **Full-Stack**
-
-- 📫 How to reach me **nayakvrishabh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mr_rubicon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rubicon" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="500" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Live |
+|--------|-------------|------|
+| 🏗️ **Griffora** | Exploring generative AI, tech trends & global growth | _Coming Soon_ |
+| 🎮 **BuildYourGenovaStudio** | Purchase platform for gamers to build dream setups | [🔗 Visit Site](https://buildyourgenovastudio.onrender.com) |
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently building **Griffora**  
+- 🌱 Focused on becoming a **full-stack leader**  
+- ✨ Exploring UI/UX + Backend APIs  
+- 📬 Reach me at **nayakvrishabh@gmail.com**
+
+---
+
+## 📫 Connect with Me
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrishabhnayak21&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=28ff73&text_color=28ff73&icon_color=28ff73" alt="vrishabhnayak21" />
+  <a href="https://instagram.com/mr_rubicon" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:nayakvrishabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vrishabhnayak21" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+---
 
+## 🛠️ Languages & Tools
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight" height="200"/>
+</p>
+
+---
+
+## 📌 Currently Exploring
+
+- 🔹 Stripe + Razorpay integrations  
+- 🔹 Full-stack project architecture  
+- 🔹 UI animations with Framer Motion  
+- 🔹 Performance optimizations in React
+
+---
+
+> ⚡ *“Code. Build. Play. Repeat.”*
