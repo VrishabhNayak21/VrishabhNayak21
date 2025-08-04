@@ -1,15 +1,17 @@
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h1>🚀 Vrishabh Nayak</h1>
-      <h3>Full-Stack Developer | Builder | Gamer</h3>
-      <h4>Dreaming Big from 🇮🇳</h4>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display: inline-block; text-align: left; width: 45%; vertical-align: top;">
+    <h1>🚀 Vrishabh Nayak</h1>
+    <h3>Full-Stack Developer | Builder | Gamer</h3>
+    <h4>Dreaming Big from 🇮🇳</h4>
+  </div>
+
+  <div style="display: inline-block; width: 45%;">
+    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400"/>
+  </div>
+
+</div>
+
 
 ---
 
