@@ -5,10 +5,14 @@
 ### Full-Stack Developer | Builder | Gamer  
 #### Dreaming Big from 🇮🇳  
 
-- 💡 Passionate about creating seamless digital experiences.  
-- 🛠️ Currently building **Griffora**, a generative AI project.  
-- 🎮 Gaming setups and full-stack design are my jam.
+- 💡 A curious mind exploring the endless possibilities of code and creativity.  
+- 🎓 A dedicated Computer Science student passionate about building real-world tech and business.  
+- 🛠️ Currently crafting **Griffora**, a generative AI project merging design and intelligence.  
+- 🎮 Enthusiast of gaming setups and immersive digital experiences — blending aesthetics with functionality.  
+- 🚀 Always learning, always building — dreaming big and developing bigger.
+
 </br>
+</hr>
 ---
 
 
