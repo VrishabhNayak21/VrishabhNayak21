@@ -1,17 +1,19 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div align="center">
 
-  <div style="max-width: 400px; margin-right: 20px;">
-    <h1>🚀 Vrishabh Nayak</h1>
-    <h3>Full-Stack Developer • Builder • Gamer</h3>
-    <p><strong>Dreaming Big from 🇮🇳</strong></p>
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400" />
   </div>
 
-  <div>
-    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="380" />
+  <div style="display: inline-block; width: 45%; vertical-align: top; text-align: left;">
+    <h1>🚀 Vrishabh Nayak</h1>
+    <h3>Full-Stack Developer | Builder | Gamer</h3>
+    <h4>Dreaming Big from 🇮🇳</h4>
+    <p>💡 Passionate about creating seamless digital experiences.<br>
+       🛠️ Currently building <strong>Griffora</strong>, a generative AI project.<br>
+       🎮 Gaming setups and full-stack design are my jam.</p>
   </div>
 
 </div>
-
 
 
 ---
