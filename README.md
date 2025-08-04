@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there! I’m Vrishabh Nayak — a student developer crafting powerful digital experiences.</h1>
+<h1 align="center">🚀 Hey there! I’m Vrishabh Nayak.</h1>
 
 
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400" align="right" />
@@ -8,8 +8,7 @@
 
 - 💡 A curious mind exploring the endless possibilities of code and creativity.  
 - 🎓 A dedicated Computer Science student passionate about building real-world tech and business.  
-- 🛠️ Currently crafting **Griffora**, a generative AI project merging design and intelligence.  
-- 🎮 Enthusiast of gaming setups and immersive digital experiences — blending aesthetics with functionality.  
+- 🛠️ Currently crafting **Griffora**, a generative AI project merging design and intelligence.    
 - 🚀 Always learning, always building — dreaming big and developing bigger.
 
 </br>
