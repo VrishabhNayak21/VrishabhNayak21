@@ -1,16 +1,17 @@
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
-  <div style="display: inline-block; text-align: left; width: 45%; vertical-align: top;">
+  <div style="max-width: 400px; margin-right: 20px;">
     <h1>🚀 Vrishabh Nayak</h1>
-    <h3>Full-Stack Developer | Builder | Gamer</h3>
-    <h4>Dreaming Big from 🇮🇳</h4>
+    <h3>Full-Stack Developer • Builder • Gamer</h3>
+    <p><strong>Dreaming Big from 🇮🇳</strong></p>
   </div>
 
-  <div style="display: inline-block; width: 45%;">
-    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400"/>
+  <div>
+    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="380" />
   </div>
 
 </div>
+
 
 
 ---
