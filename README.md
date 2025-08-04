@@ -8,8 +8,8 @@
 - 💡 Passionate about creating seamless digital experiences.  
 - 🛠️ Currently building **Griffora**, a generative AI project.  
 - 🎮 Gaming setups and full-stack design are my jam.
-
-
+</br>
+---
 
 
 ## 🌟 Featured Projects
