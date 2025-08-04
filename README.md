@@ -1,9 +1,15 @@
-<h1 align="center">🚀 Vrishabh Nayak</h1>
-<h3 align="center">Full-Stack Developer | Builder | Gamer | Dreaming Big from 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="500" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h1>🚀 Vrishabh Nayak</h1>
+      <h3>Full-Stack Developer | Builder | Gamer</h3>
+      <h4>Dreaming Big from 🇮🇳</h4>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,8 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=tokyonight" height="200"/>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
