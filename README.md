@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Vrishabh Nayak</h1>
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="350" align="right" />
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400" align="right" />
 
 ### Full-Stack Developer | Builder | Gamer  
 #### Dreaming Big from 🇮🇳  
@@ -11,8 +11,6 @@
 
 
 
-
----
 
 ## 🌟 Featured Projects
 
