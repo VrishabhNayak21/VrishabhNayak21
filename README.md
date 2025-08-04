@@ -1,8 +1,4 @@
-<div align="center">
-
-  <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400" />
-  </div>
+<div>
 
   <div style="display: inline-block; width: 45%; vertical-align: top; text-align: left;">
     <h1>🚀 Vrishabh Nayak</h1>
@@ -13,7 +9,12 @@
        🎮 Gaming setups and full-stack design are my jam.</p>
   </div>
 
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding" width="400" />
+  </div>
+
 </div>
+
 
 
 ---
