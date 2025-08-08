@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Hey there! I’m Vrishabh Nayak.</h1>
 
-
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400" align="right" />
 
 ### Full-Stack Developer | Tech and Business | Gamer  
@@ -14,7 +13,6 @@
 </br>
 </hr>
 ---
-
 
 ## 🌟 Featured Projects
 
@@ -68,12 +66,11 @@
 
 ---
 
-## 📌 Currently Exploring
+## 📌 Activity Overview
 
-- 🔹 Stripe + Razorpay integrations  
-- 🔹 Full-stack project architecture  
-- 🔹 UI animations with Framer Motion  
-- 🔹 Performance optimizations in React
+<p align="center">
+  <img src="./assets/github-activity.png" alt="GitHub Activity Overview" width="420"/>
+</p>
 
 ---
 
