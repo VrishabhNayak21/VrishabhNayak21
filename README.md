@@ -4,9 +4,9 @@
 <img 
   src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
   alt="coding gif" 
-  width="500" 
+  width="400" 
   align="right" 
-  height="500"
+  height="700"
 />
 
 
