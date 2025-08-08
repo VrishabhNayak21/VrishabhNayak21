@@ -66,10 +66,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
----
 
- 
-
----
-
-> ⚡ *“Code. Build. Play. Repeat.”* remove the currently exploring and add ativity overview
