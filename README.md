@@ -12,7 +12,6 @@
 - 🚀 Always learning, always building — dreaming big and developing bigger.
 
 </br>
-</hr>
 ---
 
 
