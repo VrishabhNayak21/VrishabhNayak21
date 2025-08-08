@@ -12,7 +12,7 @@
 - 🛠️ Currently crafting **Griffora**, a generative AI project merging design and intelligence.    
 - 🚀 Always learning, always building — dreaming big and developing bigger.
 
-</br>
+
 ---
 
 
