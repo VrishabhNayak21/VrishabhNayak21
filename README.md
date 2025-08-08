@@ -1,13 +1,7 @@
 <h1 align="center">🚀 Hey there! I’m Vrishabh Nayak.</h1>
 
 
-<img 
-  src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
-  alt="coding gif" 
-  width="400" 
-  align="right" 
-  height="700"
-/>
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="400" align="right" /> 
 
 
 ### Full-Stack Developer | Tech and Business | Gamer  
