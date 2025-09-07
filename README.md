@@ -62,8 +62,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight" height="200"/>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vrishabhnayak21&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
 
 
