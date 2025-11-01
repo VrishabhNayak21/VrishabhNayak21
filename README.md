@@ -75,11 +75,12 @@
   />
 
   <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=vrishabhnayak21&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+ <img 
+  src="https://streak-stats.demolab.com/?user=vrishabhnayak21&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Streak" 
+/>
+
 
 </div>
 
