@@ -65,14 +65,24 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vrishabhnayak21&theme=tokyonight&hide_border=true" height="200"/>
-</p>
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=vrishabhnayak21&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+
+</div>
+
 
 
 
