@@ -10,17 +10,6 @@
 
 <br/>
 
-<!-- 📊 PROFILE STATS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrishabhnayak21&style=for-the-badge&color=3b82f6&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vrishabhnayak21?style=for-the-badge&color=10b981&labelColor=1f2937&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vrishabhnayak21?style=for-the-badge&color=f59e0b&labelColor=1f2937&logo=github&label=Stars" alt="Stars" />
-</p>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
 <div align="center">
