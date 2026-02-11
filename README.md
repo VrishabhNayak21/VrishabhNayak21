@@ -3,20 +3,6 @@
 <!-- 🎨 ENHANCED ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=280&section=header&text=VRISHABH%20NAYAK&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%9C%A8%20Creative%20Technologist%20%E2%9C%A8%20AI%20Enthusiast&descAlignY=51&descSize=22&descAlign=50" width="100%"/>
 
-<!-- 🌟 ANIMATED TYPING BANNER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=💡+Dreaming+Big+from+India+🇮🇳;🚀+Building+the+Future%2C+One+Line+at+a+Time;✨+Turning+Ideas+into+Innovative+Solutions;🎯+Full+Stack+%7C+AI+%7C+Design" alt="Typing Animation" />
-</a>
-
-<br/>
-
-<!-- 📊 PROFILE METRICS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrishabhnayak21&style=for-the-badge&color=3b82f6&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vrishabhnayak21?style=for-the-badge&color=10b981&labelColor=1f2937&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vrishabhnayak21?style=for-the-badge&color=f59e0b&labelColor=1f2937&logo=github&label=Stars" alt="Stars" />
-</p>
-
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
@@ -101,68 +87,6 @@ philosophy: "Dream big, build bigger 🚀"
 
 <br/>
 
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🏗️ Griffora
-**Generative AI Platform**
-
-<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1f2937" />
-
-Exploring the intersection of generative AI, tech trends, and global innovation. A comprehensive platform for AI-powered content creation and analysis.
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-`Coming Soon` 🎯
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🎮 BuildYourGenovaStudio
-**Gaming Setup Platform**
-
-<a href="https://buildyourgenovastudio.onrender.com">
-  <img src="https://img.shields.io/badge/🔗_Live_Site-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f2937" />
-</a>
-
-A full-featured e-commerce platform for gamers to purchase and build their dream gaming setups with curated components and peripherals.
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-[**Explore →**](https://buildyourgenovastudio.onrender.com)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
