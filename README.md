@@ -51,7 +51,7 @@ motto: "Dream big, build bigger"
 ```
 
 **Current Focus:**
-- 🛠️ Building **Griffora** — Generative AI platform
+- 🛠️ Building Griffora — Empowering Freelancers, Enabling Businesses
 - 🎨 Exploring **UI/UX** + **Backend APIs**
 - 🚀 Mastering **Full-Stack Architecture**
 - 💡 Contributing to open-source projects
