@@ -3,26 +3,20 @@
 <!-- 🎨 ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Vrishabh%20Nayak&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- 🌟 TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=💡+Dreaming+Big+from+India+🇮🇳;🚀+Always+Learning%2C+Always+Building;✨+Turning+Ideas+into+Reality" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<br/>
-
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-<h2>🧑‍💻 About Me</h2>
+## 🧑‍💻 About Me
 
 ```yaml
 name: Vrishabh Nayak
@@ -39,28 +33,29 @@ learning:
 motto: "Dream big, build bigger"
 ```
 
-**Current Focus:**
-- 🛠️ Building Griffora — Empowering Freelancers, Enabling Businesses
-- 🎨 Exploring **UI/UX** + **Backend APIs**
-- 🚀 Mastering **Full-Stack Architecture**
-- 💡 Contributing to open-source projects
+### 🚀 Current Focus
+- 🛠️ Building **Griffora** — Empowering Freelancers, Enabling Businesses  
+- 🎨 Exploring **UI/UX + Backend APIs**  
+- 🚀 Mastering **Full-Stack Architecture**  
+- 💡 Contributing to open-source projects  
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Coding Animation" width="90%" style="border-radius: 10px;"/>
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="90%" style="border-radius:12px;" />
 
-<br/><br/>
-
-**💬 Fun Facts:**
-- ☕ Powered by coffee & curiosity
-- 🎮 Gaming enthusiast
-- 📚 Lifelong learner
-- 🌙 Night owl coder
+### 💬 Fun Facts
+- ☕ Powered by coffee & curiosity  
+- 🎮 Gaming enthusiast  
+- 📚 Lifelong learner  
+- 🌙 Night owl coder  
 
 </td>
+
 </tr>
 </table>
+
 
 <br/>
 
