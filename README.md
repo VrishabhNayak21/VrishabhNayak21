@@ -1,61 +1,103 @@
 <div align="center">
 
-<!-- 🎨 ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Vrishabh%20Nayak&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=20" width="100%"/>
+<!-- 🎨 ENHANCED ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=280&section=header&text=VRISHABH%20NAYAK&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%9C%A8%20Creative%20Technologist%20%E2%9C%A8%20AI%20Enthusiast&descAlignY=51&descSize=22&descAlign=50" width="100%"/>
+
+<!-- 🌟 ANIMATED TYPING BANNER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=💡+Dreaming+Big+from+India+🇮🇳;🚀+Building+the+Future%2C+One+Line+at+a+Time;✨+Turning+Ideas+into+Innovative+Solutions;🎯+Full+Stack+%7C+AI+%7C+Design" alt="Typing Animation" />
+</a>
+
+<br/>
+
+<!-- 📊 PROFILE METRICS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vrishabhnayak21&style=for-the-badge&color=3b82f6&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vrishabhnayak21?style=for-the-badge&color=10b981&labelColor=1f2937&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vrishabhnayak21?style=for-the-badge&color=f59e0b&labelColor=1f2937&logo=github&label=Stars" alt="Stars" />
+</p>
 
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 </div>
 
-<table width="100%">
+<br/><br/>
+
+<table width="100%" border="0" cellpadding="20" cellspacing="0">
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" valign="top">
-
-## 🧑‍💻 About Me
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="coding icon"/>
+  About Me
+</h2>
 
 ```yaml
 name: Vrishabh Nayak
 role: Full Stack Developer
-location: India 🇮🇳
-focus:
-  - Generative AI
-  - Full Stack Development
-  - UI/UX Design
-learning:
+location: Bengaluru, India 🇮🇳
+status: Computer Science Student
+
+core_skills:
+  - Generative AI & Machine Learning
+  - Full Stack Web Development
+  - UI/UX Design & Prototyping
+  - RESTful API Architecture
+
+currently_learning:
   - Next.js & React Native
-  - Backend APIs
-  - System Design
-motto: "Dream big, build bigger"
+  - Advanced Backend Systems
+  - System Design Patterns
+  - Cloud Infrastructure
+
+philosophy: "Dream big, build bigger 🚀"
 ```
 
-### 🚀 Current Focus
-- 🛠️ Building **Griffora** — Empowering Freelancers, Enabling Businesses  
-- 🎨 Exploring **UI/UX + Backend APIs**  
-- 🚀 Mastering **Full-Stack Architecture**  
-- 💡 Contributing to open-source projects  
+<br/>
 
-</td>
+### 🎯 **What I'm Building**
 
-<td width="50%" align="center" valign="top">
-
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="90%" style="border-radius:12px;" />
-
-### 💬 Fun Facts
-- ☕ Powered by coffee & curiosity  
-- 🎮 Gaming enthusiast  
-- 📚 Lifelong learner  
-- 🌙 Night owl coder  
-
-</td>
-
+<table>
+<tr>
+<td width="10px">🛠️</td>
+<td><strong>Griffora</strong> — Empowering Freelancers, Enabling Businesses</td>
+</tr>
+<tr>
+<td>🎨</td>
+<td>Exploring <strong>UI/UX Design</strong> + <strong>Backend APIs</strong></td>
+</tr>
+<tr>
+<td>🚀</td>
+<td>Mastering <strong>Full-Stack Architecture</strong> & <strong>System Design</strong></td>
+</tr>
+<tr>
+<td>💡</td>
+<td>Contributing to <strong>Open Source</strong> projects</td>
+</tr>
+<tr>
+<td>📚</td>
+<td>Continuous learning through real-world projects</td>
 </tr>
 </table>
 
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="100%" style="border-radius:16px; border: 3px solid #3b82f6; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);" alt="Coding Animation"/>
+
+<br/><br/>
+
+<!-- QUICK STATS CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide=prs&custom_title=Quick%20Stats&include_all_commits=true&count_private=true" width="100%" alt="Quick Stats" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -346,6 +388,6 @@ A full-featured e-commerce platform for gamers to purchase and build their dream
 
 **"Code is poetry written in logic"**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
