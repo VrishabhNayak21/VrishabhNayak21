@@ -1,6 +1,5 @@
-<!-- 🔮 ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Vrishabh%20Nayak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20%26%20Business%20%7C%20Gamer&descAlignY=55&descSize=18&descColor=b392f0" width="100%" />
+  <img src="assets/banner.png" width="100%" alt="Vrishabh Nayak Banner" />
 </div>
 
 <!-- 🎯 TYPING ANIMATION -->
@@ -29,7 +28,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="320" />
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="coding gif" width="100%" />
 
 </td>
 </tr>
