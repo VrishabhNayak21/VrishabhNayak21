@@ -11,18 +11,19 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
-<table>
+<div align="center">
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"/> About Me</h2>
+</div>
+
+<br/>
+
+<table width="100%">
 <tr>
+<td width="55%" valign="top">
 
-<!-- LEFT SIDE -->
-<td width="50%" valign="top">
-
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="34px"/>
-  About Me
-</h2>
+<samp>
 
 ```yaml
 name: Vrishabh Nayak
@@ -45,34 +46,29 @@ currently_learning:
 philosophy: "Dream big, build bigger 🚀"
 ```
 
-<br/>
+</samp>
 
-<h3>🎯 What I'm Building</h3>
+</td>
+<td width="45%" align="center" valign="center">
 
-<table>
-<tr><td>🛠️</td><td><b>Griffora</b> — Empowering Freelancers, Enabling Businesses</td></tr>
-<tr><td>🎨</td><td>Exploring <b>UI/UX Design</b> + <b>Backend APIs</b></td></tr>
-<tr><td>🚀</td><td>Mastering <b>Full-Stack Architecture</b> & <b>System Design</b></td></tr>
-<tr><td>💡</td><td>Contributing to <b>Open Source</b> projects</td></tr>
-<tr><td>📚</td><td>Continuous learning through real-world projects</td></tr>
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="400px" />
+
+</td>
+</tr>
 </table>
 
-</td>
-
-<!-- RIGHT SIDE -->
-<td width="50%" align="center" valign="top">
-
 <br/>
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="95%" />
+<div align="center">
+<h3>🎯 What I'm Building</h3>
+</div>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide=prs&custom_title=Quick%20Stats&include_all_commits=true&count_private=true" width="95%" alt="Quick Stats" />
-
-</td>
-
-</tr>
+<table width="100%">
+<tr><td width="40px" align="center">🛠️</td><td><b>Griffora</b> — Empowering Freelancers, Enabling Businesses</td></tr>
+<tr><td align="center">🎨</td><td>Exploring <b>UI/UX Design</b> + <b>Backend APIs</b></td></tr>
+<tr><td align="center">🚀</td><td>Mastering <b>Full-Stack Architecture</b> & <b>System Design</b></td></tr>
+<tr><td align="center">💡</td><td>Contributing to <b>Open Source</b> projects</td></tr>
+<tr><td align="center">📚</td><td>Continuous learning through real-world projects</td></tr>
 </table>
 
 <br/>
