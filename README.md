@@ -51,7 +51,7 @@ philosophy: "Dream big, build bigger 🚀"
 </td>
 <td width="45%" align="center" valign="center">
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="400px" />
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="520px" />
 
 </td>
 </tr>
