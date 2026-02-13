@@ -13,20 +13,23 @@
 
 <br/><br/>
 
-<table width="100%" border="0" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="55%" valign="top">
+
+<!-- LEFT SIDE -->
+<td width="50%" valign="top">
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="coding icon"/>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="34px"/>
   About Me
 </h2>
 
-```yaml
-name: Vrishabh Nayak
-role: Full Stack Developer
-location: Bengaluru, India 🇮🇳
-status: Computer Science Student
+<pre>
+
+name: Vrishabh Nayak  
+role: Full Stack Developer  
+location: Bengaluru, India 🇮🇳  
+status: Computer Science Student  
 
 core_skills:
   - Generative AI & Machine Learning
@@ -41,47 +44,34 @@ currently_learning:
   - Cloud Infrastructure
 
 philosophy: "Dream big, build bigger 🚀"
-```
+
+</pre>
 
 <br/>
 
-### 🎯 **What I'm Building**
+### 🎯 What I'm Building
 
 <table>
-<tr>
-<td width="10px">🛠️</td>
-<td><strong>Griffora</strong> — Empowering Freelancers, Enabling Businesses</td>
-</tr>
-<tr>
-<td>🎨</td>
-<td>Exploring <strong>UI/UX Design</strong> + <strong>Backend APIs</strong></td>
-</tr>
-<tr>
-<td>🚀</td>
-<td>Mastering <strong>Full-Stack Architecture</strong> & <strong>System Design</strong></td>
-</tr>
-<tr>
-<td>💡</td>
-<td>Contributing to <strong>Open Source</strong> projects</td>
-</tr>
-<tr>
-<td>📚</td>
-<td>Continuous learning through real-world projects</td>
-</tr>
+<tr><td>🛠️</td><td><strong>Griffora</strong> — Empowering Freelancers, Enabling Businesses</td></tr>
+<tr><td>🎨</td><td>Exploring <strong>UI/UX Design</strong> + <strong>Backend APIs</strong></td></tr>
+<tr><td>🚀</td><td>Mastering <strong>Full-Stack Architecture</strong> & <strong>System Design</strong></td></tr>
+<tr><td>💡</td><td>Contributing to <strong>Open Source</strong> projects</td></tr>
+<tr><td>📚</td><td>Continuous learning through real-world projects</td></tr>
 </table>
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<!-- RIGHT SIDE -->
+<td width="50%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="100%" style="border-radius:16px; border: 3px solid #3b82f6; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);" alt="Coding Animation"/>
-
-<br/><br/>
-
-<!-- QUICK STATS CARD -->
-<img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide=prs&custom_title=Quick%20Stats&include_all_commits=true&count_private=true" width="100%" alt="Quick Stats" />
+<img 
+ src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"
+ width="115%"
+ style="max-width:520px; border-radius:18px; border:4px solid #3b82f6; box-shadow:0 6px 30px rgba(59,130,246,0.35);"
+/>
 
 </td>
+
 </tr>
 </table>
 
