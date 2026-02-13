@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<table>
 <tr>
 
 <!-- LEFT SIDE -->
@@ -24,12 +24,11 @@
   About Me
 </h2>
 
-<pre>
-
-name: Vrishabh Nayak  
-role: Full Stack Developer  
-location: Bengaluru, India 🇮🇳  
-status: Computer Science Student  
+```yaml
+name: Vrishabh Nayak
+role: Full Stack Developer
+location: Bengaluru, India 🇮🇳
+status: Computer Science Student
 
 core_skills:
   - Generative AI & Machine Learning
@@ -44,31 +43,32 @@ currently_learning:
   - Cloud Infrastructure
 
 philosophy: "Dream big, build bigger 🚀"
-
-</pre>
+```
 
 <br/>
 
-### 🎯 What I'm Building
+<h3>🎯 What I'm Building</h3>
 
 <table>
-<tr><td>🛠️</td><td><strong>Griffora</strong> — Empowering Freelancers, Enabling Businesses</td></tr>
-<tr><td>🎨</td><td>Exploring <strong>UI/UX Design</strong> + <strong>Backend APIs</strong></td></tr>
-<tr><td>🚀</td><td>Mastering <strong>Full-Stack Architecture</strong> & <strong>System Design</strong></td></tr>
-<tr><td>💡</td><td>Contributing to <strong>Open Source</strong> projects</td></tr>
+<tr><td>🛠️</td><td><b>Griffora</b> — Empowering Freelancers, Enabling Businesses</td></tr>
+<tr><td>🎨</td><td>Exploring <b>UI/UX Design</b> + <b>Backend APIs</b></td></tr>
+<tr><td>🚀</td><td>Mastering <b>Full-Stack Architecture</b> & <b>System Design</b></td></tr>
+<tr><td>💡</td><td>Contributing to <b>Open Source</b> projects</td></tr>
 <tr><td>📚</td><td>Continuous learning through real-world projects</td></tr>
 </table>
 
 </td>
 
 <!-- RIGHT SIDE -->
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img 
- src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"
- width="115%"
- style="max-width:520px; border-radius:18px; border:4px solid #3b82f6; box-shadow:0 6px 30px rgba(59,130,246,0.35);"
-/>
+<br/>
+
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&hide=prs&custom_title=Quick%20Stats&include_all_commits=true&count_private=true" width="95%" alt="Quick Stats" />
 
 </td>
 
