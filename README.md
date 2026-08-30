@@ -59,76 +59,44 @@ philosophy: "Dream big, build bigger 🚀"
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        WHAT I'M BUILDING                       -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<h3>🎯 What I'm Building</h3>
+
+## 🎯 What I'm Building
+
 </div>
 
-<table width="100%">
-<tr><td width="40px" align="center">🛠️</td><td><b>Griffora</b> — Empowering Freelancers, Enabling Businesses</td></tr>
-<tr><td align="center">🎨</td><td>Exploring <b>UI/UX Design</b> + <b>Backend APIs</b></td></tr>
-<tr><td align="center">🚀</td><td>Mastering <b>Full-Stack Architecture</b> & <b>System Design</b></td></tr>
-<tr><td align="center">💡</td><td>Contributing to <b>Open Source</b> projects</td></tr>
-<tr><td align="center">📚</td><td>Continuous learning through real-world projects</td></tr>
-</table>
-
-<br/>
-
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<h2 align="center">⚡ Tech Arsenal</h2>
-
-<br/>
-
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td>🛠️</td>
+<td><b>Griffora</b> — Empowering Freelancers, Enabling Businesses</td>
+</tr>
 
-### 🎨 Frontend
+<tr>
+<td>🎨</td>
+<td>Exploring <b>UI/UX Design</b> & <b>Backend APIs</b></td>
+</tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=3" />
-</p>
+<tr>
+<td>🚀</td>
+<td>Mastering <b>Full-Stack Architecture</b> & <b>System Design</b></td>
+</tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+<tr>
+<td>💡</td>
+<td>Contributing to <b>Open Source</b> projects</td>
+</tr>
 
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,mongodb,postgres,express&perline=3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🛠️ Tools & Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&perline=3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-</td>
+<tr>
+<td>📚</td>
+<td>Learning continuously through real-world projects</td>
 </tr>
 </table>
 
@@ -136,31 +104,180 @@ philosophy: "Dream big, build bigger 🚀"
 
 <br/>
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         TECH ARSENAL                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vrishabhnayak21&theme=radical&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=6b7280" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrishabhnayak21&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=10b981&point=f59e0b&area=true&area_color=3b82f6" alt="Contribution Graph" />
+
+## ⚡ Tech Arsenal
+
 </div>
 
 <br/>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<!-- FRONTEND -->
+
+<td width="33%" align="center" valign="top">
+
+### 🎨 Frontend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=3">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+</td>
+
+<!-- BACKEND -->
+
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Backend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,mongodb,postgres,express&perline=3">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
+</td>
+
+<!-- TOOLS -->
+
+<td width="33%" align="center" valign="top">
+
+### 🛠️ Tools & Design
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&perline=3">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       GITHUB ANALYTICS                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vrishabhnayak21&theme=radical&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=6b7280" alt="GitHub Streak">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages">
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrishabhnayak21&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=10b981&point=f59e0b&area=true&area_color=3b82f6" alt="Contribution Graph">
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       DEV SUMMARY                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📦 Dev Summary
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrishabhnayak21&theme=github_dark" width="100%" alt="Profile Details">
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vrishabhnayak21&theme=github_dark" width="32%" alt="Repositories Per Language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vrishabhnayak21&theme=github_dark" width="32%" alt="Most Commit Language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vrishabhnayak21&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time">
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           FOOTER                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:10b981&height=100&section=footer">
+
+</div>
+
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <div align="center">
