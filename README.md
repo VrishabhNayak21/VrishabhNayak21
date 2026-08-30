@@ -210,19 +210,7 @@ philosophy: "Dream big, build bigger 🚀"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vrishabhnayak21&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=10b981&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats">
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vrishabhnayak21&theme=radical&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=6b7280" alt="GitHub Streak">
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrishabhnayak21&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages">
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrishabhnayak21&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=10b981&point=f59e0b&area=true&area_color=3b82f6" alt="Contribution Graph">
 
 </div>
 
@@ -291,24 +279,6 @@ philosophy: "Dream big, build bigger 🚀"
 <br/>
 
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrishabhnayak21&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&row=2" alt="Trophies" width="100%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
